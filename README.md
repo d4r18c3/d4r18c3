@@ -1,8 +1,8 @@
 ## Olá mundo, me chamo Diego e sou Desenvolvedor Back-End 👋
 
 - 🌱 Estou aprendendo: Java;
-- 📫 Meu e-mail é: oi@crescenc.io;
-- ⚡ Fato inusitado: Sou bacharel em Arquitetura e Urbanismo.
+## - 📫 Meu e-mail é: oi@crescenc.io;
+## - ⚡ Fato inusitado: Sou bacharel em Arquitetura e Urbanismo.
 
 &nbsp;
 ## Panorama das minhas contribuições
